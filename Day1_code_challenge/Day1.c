@@ -4,4 +4,5 @@ int main()
 	printf("Hello world\n");
 	printf("mary princy\n");
 	printf("Day1_code_challenge\n");
+	printf("Test Github commit\n");
 }
