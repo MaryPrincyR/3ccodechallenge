@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\mailt\source\repos\3ccodechallenge\Day8_Challenge\main.c(9,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Day8_Challenge.vcxproj -> C:\Users\mailt\source\repos\3ccodechallenge\Day8_Challenge\x64\Debug\Day8_Challenge.exe
