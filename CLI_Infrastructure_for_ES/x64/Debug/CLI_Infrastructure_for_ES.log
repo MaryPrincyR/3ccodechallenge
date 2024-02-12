@@ -1,7 +1,0 @@
-﻿  cli.c
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1120.
-cli.obj : error LNK2001: unresolved external symbol help_command_interpreter
-cli.obj : error LNK2001: unresolved external symbol set_command_interpreter
-cli.obj : error LNK2001: unresolved external symbol get_command_interpreter
-cli.obj : error LNK2019: unresolved external symbol register_command referenced in function main
-C:\Users\mailt\source\repos\3ccodechallenge\CLI_Infrastructure_for_ES\x64\Debug\CLI_Infrastructure_for_ES.exe : fatal error LNK1120: 4 unresolved externals
