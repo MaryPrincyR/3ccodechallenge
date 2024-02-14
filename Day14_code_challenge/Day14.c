@@ -1,5 +1,6 @@
 /*The following program  creates an Array to hold the details of  upto 15 DVDs and also 
-demonstrates how to write elements to specific locations of the array.*/
+demonstrates how to write elements to specific locations of the array and how to read from
+specific locations.*/
 
 //Header files
 #include<stdio.h>
@@ -59,7 +60,7 @@ int main() {
 	// create a DVD object for The Avengers.
 	DVD avengersDVD;
 	initDVD(&avengersDVD, "The Avengers", 2012, "Joss Whedon");
-	// Put "The Incredibles" into index 7.
+	// Put "The Avengers." into index 7.
 	dvdCollection[7] = avengersDVD;
 	printDVD(&dvdCollection[7]);
 
@@ -101,5 +102,7 @@ int main() {
 
 	return 0;
 }
+
+
 
 
