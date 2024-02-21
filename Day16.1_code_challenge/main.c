@@ -1,3 +1,5 @@
+/*This code creates five DVD objects for storing the details of five movies and writes it to a structure and then reads from it.*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
