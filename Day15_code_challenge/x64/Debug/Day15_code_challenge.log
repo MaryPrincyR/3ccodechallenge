@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\mailt\source\repos\3ccodechallenge\Day15_code_challenge\main.c(33,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day15_code_challenge\main.c(44,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day15_code_challenge\main.c(58,2): warning C4098: 'main': 'void' function returning a value
+  Day15_code_challenge.vcxproj -> C:\Users\mailt\source\repos\3ccodechallenge\Day15_code_challenge\x64\Debug\Day15_code_challenge.exe
