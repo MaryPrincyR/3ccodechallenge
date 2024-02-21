@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(25,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(41,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(66,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(80,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(104,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(118,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(140,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(150,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(170,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(180,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\main.c(191,2): warning C4098: 'main': 'void' function returning a value
+  Day16_code_challenge.vcxproj -> C:\Users\mailt\source\repos\3ccodechallenge\Day16_code_challenge\x64\Debug\Day16_code_challenge.exe

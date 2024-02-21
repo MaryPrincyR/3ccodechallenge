@@ -54,6 +54,7 @@ void main()
 	//free the memory
 	free(avengersDVD.name);
 	free(avengersDVD.director);
+
 	
 	return 0;
 }
