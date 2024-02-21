@@ -1,4 +1,4 @@
-/*This code creates five DVD objects for storing the details of five movies and writes it to a structure and then reads from it.*/
+/*This code creates five DVD objects for storing the details of five movies and writes it to an array and then reads from it.*/
 
 #include <stdio.h>
 #include <string.h>
@@ -12,6 +12,7 @@ typedef struct {
 
 void main()
 {
+	//declare an array to store the DVDs
 	DVD dvdCollection[10];
 
 	//Create a DVD object for avengers
